@@ -19,7 +19,6 @@ import { MainApp } from './components/09-useContext/MainApp';
 
 
 ReactDOM.render(
-    <MainApp/>,
+    <MainApp />,
   document.getElementById('root')
 );
-
